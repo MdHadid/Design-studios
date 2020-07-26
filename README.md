@@ -1,1 +1,1 @@
-This template is image to HTML/CSS conversion.
+This template is made form image to HTML/CSS conversion.
